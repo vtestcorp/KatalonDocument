@@ -1,0 +1,29 @@
+# multi-factor authentication component - functional
+
+
+## UI allows user to activate multi-factor authentication for the organisation
+
+1. Open {{ENV}}.qa.solvexia.com
+2. Enter correct username and password
+3. Click login
+
+`You should be successfully logged in`
+
+## UI does not allow user to active multi-factor authentication if the organisation has SSO enabled
+
+
+
+## Verify how long code is valid.
+
+
+## Verify authentication code is generated when user trying to change Email.
+
+
+## Verify authentication code is generated when user trying to change password.
+
+
+## Verify UI allows user to reset authentication code
+
+
+
+
