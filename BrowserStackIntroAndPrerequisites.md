@@ -18,4 +18,5 @@ Use the BrowserStack Jenkins plugin to:
 You need the following set up before you begin:
 
 ●	An existing Jenkins CI server (version 1.653+)
+
 ●	A BrowserStack account
