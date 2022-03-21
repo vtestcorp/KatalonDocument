@@ -9,3 +9,13 @@
 4. Project will look like as below.
 
 ![image](https://user-images.githubusercontent.com/11056300/159262398-dc6d6f09-4a48-45ca-93cc-ce32263ea507.png)
+
+# Katalon Studio-Project Description
+
+**Test Cases:** We will be using this to create the test cases.
+
+![image](https://user-images.githubusercontent.com/11056300/159262714-2e856000-41c2-4ea7-857c-2ec58b4d707c.png)
+
+**Test Suites:** We will be using to create the test suites, to run the test cases in sequential and parallel mode as well.
+**Object Repository:** This will be having the web elements of each page.
+**Reports:** The report will be generated in this folder after execution of test suites.
