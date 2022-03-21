@@ -17,5 +17,7 @@
 ![image](https://user-images.githubusercontent.com/11056300/159262714-2e856000-41c2-4ea7-857c-2ec58b4d707c.png)
 
 **Test Suites:** We will be using to create the test suites, to run the test cases in sequential and parallel mode as well.
+
 **Object Repository:** This will be having the web elements of each page.
+
 **Reports:** The report will be generated in this folder after execution of test suites.
