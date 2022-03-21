@@ -1,4 +1,3 @@
-# Cloud Execution- Jenkins and BrowserStack configuration
+# Katalon- Introduction, installtion and execution
 
-- [Jenkins](Jenkins.md)
-- [BrowserStack](BrowserStack.md)
+- [KatalonStudio](KatalonStudio.md)
