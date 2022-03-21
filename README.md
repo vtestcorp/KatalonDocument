@@ -1,2 +1,2 @@
-# JenkinsAndBrowserStackSetup
-This document is having the detailed steps to configure the Jenkins,BrowserStack and executing the test cases.
+# Katalon Documentation
+This document is having the detailed steps to install the Katalon,creating test cases, integrating with Jenkins, gitLab and executing the test cases.
