@@ -1,5 +1,4 @@
 # Katalon- Introduction, installtion and execution
 
-- [KatalonStudio - Introduction](KatalonStudioIntro.md)
-- [KatalonStudio - Setup and Installation](KatalonStudioIntro.md)
-- 
+- [KatalonStudio - Introduction]KatalonStudio - Introduction.md)
+- [KatalonStudio - Setup and Installation](KatalonStudio - Setup and Installation.md)
